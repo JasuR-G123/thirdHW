@@ -1,0 +1,101 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.Avto{
+    background-color: black;
+    text-align: center;
+    color: white;
+    
+    padding: 20px 0;
+}
+
+.textavto{
+   width: 650px;
+   background-color: black;
+   color: white;
+   border-radius: 25px;
+   border: double blue 10px;
+   margin: 0 auto;
+   padding: 20px;
+   text-align: center;
+   margin-top: 25px !important;
+   
+}
+
+.autoMarks{
+    margin: 25px 0px  0px 250px;
+    border: double 10px blue;
+    border-radius: 15px;
+}
+
+.ourAvto{
+    background-image: url(../images/autobackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 80px;
+}
+
+.carname{
+    background-color: black;
+    border: 5px double blue;
+    color: white;
+}
+
+.carnamegroup{
+  text-align: center;
+  margin-top: 50px;
+  
+}
+
+.Marks{
+    background-color: black;
+    text-align: center;
+    color: white;
+    
+    padding: 20px 0;
+}
+
+.MarksAuto{
+    background-image: url(../images/autobackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 80px;
+}
+
+.ofcPartner{
+    background-image: url(../images/autobackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 80px;
+}
+
+.ofctext{
+    background-color: black;
+    text-align: center;
+    color: white;
+    
+    padding: 20px 0;
+}
+
+.ofcPartnerImage{
+   margin-left: 450px;
+   width: 350px;
+   border: 15px solid black;
+   margin-top: 50px;
+   margin-bottom: 25px;
+}
+
+.nextpage{
+    width: 100px;
+    float: right ;
+}
+
+
+.partners{
+    width: 100px;
+    float: center;
+}

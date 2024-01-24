@@ -1,0 +1,84 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+.leave{
+    width: 100px;
+    margin-bottom: 50px;
+}
+
+.OurAutoSalon{
+    background-color: black;
+    text-align: center;
+    color: white;
+    
+    padding: 20px 0;
+    
+}
+
+.ourAvtoSalonDiv{
+    background-image: url(../images/autobackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+}
+
+.VideoOfOurAvtoSalon{
+    margin-left: 150px;
+    margin-top: 25px;
+    width: 1000px;
+    height: 600px;
+}
+
+.newcars{
+    background-image: url(../images/autobackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+  
+}
+
+.VideoOfOurNewcars{
+    margin-left: 330px;
+    margin-top: 25px;
+    width: 600px;
+    height: 250px;
+}
+
+.geoPlace{
+   margin-right: 200px;
+   margin-left: 150px;
+    margin-top: 25px;
+    width: 900px;
+    height: 500px;
+ 
+}
+
+.whereAreWe{
+    background-image: url(../images/autobackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+
+}
+
+.textavto{
+    width: 650px;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    border: double blue 10px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    margin-top: 25px !important;
+    
+ }
+ 
+ .leave{
+    margin-top: 50px;
+ }
